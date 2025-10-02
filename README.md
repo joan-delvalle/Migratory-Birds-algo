@@ -1,1 +1,1 @@
-# Migratory-Birds-algo
+# Migratory-Birds-algo The program counts how many times each bird type appears in the list and finds the type with the highest frequency. If there is a tie, it returns the bird with the smallest ID number.
